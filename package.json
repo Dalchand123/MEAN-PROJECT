@@ -1,0 +1,25 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "angular2-jwt": "^0.2.3",
+    "auth0-lock": "^10.18.0",
+    "bcryptjs": "*",
+    "body-parser": "^1.17.2",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongodb": "^2.2.29",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "^2.2.1"
+  },
+  "author": "Dalchand",
+  "license": "ISC"
+}
